@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @L3D-Droid
 - 👀 I’m interested in Electronic structure calculations
 - 🌱 I’m currently learning Python and M.L
-- 💞️ I’m looking to collaborate on developing DFT
+- 💞️ I’m looking to collaborate on developing DFT codes
 - 📫 How to reach me athulsb6174@gmail.com
 
 <!---

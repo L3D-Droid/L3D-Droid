@@ -23,8 +23,7 @@ for i in range(1,m+1):
         
     f = open("{}_%i.gjf".format(a) %(i),"w")
     f.write("%nprocshared={}".format(x) + "\n%mem={}GB".format(z) + "\n# opt freq=noraman empiricaldispersion=gd3bj "+ "{}".format(functional)+"/{}".format(basisset)+ "\n \n{}".format(a) + "\n \n {}".format(charge)+ " {}".format(mult)+ "\n")
-    #print("%"+"nprocshared=%s \n"+"%"+"mem=8GB \n# opt freq=noraman b97d3/def2tzvp \n \nProduct_Radical\n \n0 2\n" %x, file=f)
-#    lines = fp.readlines()
+   
 
     for number, line in enumerate(lines):
         if number not in [0, 1]:

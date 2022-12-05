@@ -1,3 +1,5 @@
+# gaussian_input_file_creator
+
 - This is a simple code to extract xyz coordinates from multiple xyz coordinate file from crest to perform quantum chemical calculations.
 - Usage 
 - python3 Test.py crest_conformers.xyz
